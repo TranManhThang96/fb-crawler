@@ -1,0 +1,16 @@
+{
+  "name": "fb-crawler",
+  "version": "1.0.0",
+  "description": "crawler posts from facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "ThangTm",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "puppeteer": "^19.7.4"
+  }
+}
